@@ -1,0 +1,9 @@
+Customer: saman
+Date: 2025-06-22 03:24
+
+Items:
+3x Mobile    Rs. 150000.0
+1x Watch    Rs. 10000.0
+5x Chain    Rs. 500.0
+----------------------------
+Total:             Rs. 160500.0

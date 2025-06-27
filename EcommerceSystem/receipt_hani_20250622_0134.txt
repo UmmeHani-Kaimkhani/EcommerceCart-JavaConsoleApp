@@ -1,0 +1,7 @@
+Customer: hani
+Date: 2025-06-22 01:34
+
+Items:
+3x Charger    Rs. 6000.0
+----------------------------
+Total:             Rs. 6000.0

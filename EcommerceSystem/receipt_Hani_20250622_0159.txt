@@ -1,0 +1,7 @@
+Customer: Hani
+Date: 2025-06-22 01:59
+
+Items:
+3x Headphones    Rs. 4500.0
+----------------------------
+Total:             Rs. 4500.0
